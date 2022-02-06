@@ -1,18 +1,12 @@
-import "./header.module.css";
+import "./styles.css";
 
 const Header = () => {
   return (
-    <header>
-      <ul>
-        <li>
-          <p> About Us</p>
-        </li>
-        <li>
-          <p> Previous Works </p>
-        </li>
-        <li>
-          <p> Get In Touch</p>
-        </li>
+    <header className="header">
+      <ul className="header-nav-list">
+        <li className="header-nav-item">About Us</li>
+        <li className="header-nav-item">Previous Works</li>
+        <li className="header-nav-item">Get In Touch</li>
       </ul>
     </header>
   );
