@@ -1,0 +1,218 @@
+.previous-works {
+  margin: 2rem 0;
+  width: 80vw;
+  background-color: rgba(131, 131, 130, 0.6); /* Tint color */
+  background-blend-mode: multiply;
+  border-radius: 10px;
+}
+.previous-works-title {
+  color: white;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.previous-works-gallery {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+.previous-works-subtitle {
+  font-family: "Caveat", "Mukta";
+  font-weight: 700;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+  color: white;
+}
+
+/*! Restaurant Below !*/
+.previous-works-gallery-item1 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurant.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+.previous-works-gallery-item2 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurant1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item3 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurant2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item4 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurant3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item5 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurant4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item6 {
+  background-image: url("../../assets/galleryimgs/restaurant/restaurantsign.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+/*! Living room Below !*/
+.previous-works-gallery-item7 {
+  background-image: url("../../assets/galleryimgs/living-room/living-room.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item8 {
+  background-image: url("../../assets/galleryimgs/living-room/living-room3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item9 {
+  background-image: url("../../assets/galleryimgs/living-room/living-room4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+/*! Kitchen  Below !*/
+.previous-works-gallery-item10 {
+  background-image: url("../../assets/galleryimgs/kitchen/kitchen.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item11 {
+  background-image: url("../../assets/galleryimgs/kitchen/kitchen2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item12 {
+  background-image: url("../../assets/galleryimgs/kitchen/kitchen3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+/*! Bathroom  Below !*/
+
+.previous-works-gallery-item13 {
+  background-image: url("../../assets/galleryimgs/bathroom/bathroom.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item14 {
+  background-image: url("../../assets/galleryimgs/bathroom/bathroom1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item15 {
+  background-image: url("../../assets/galleryimgs/bathroom/bathroom2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+/*! Commercial  Below !*/
+
+.previous-works-gallery-item16 {
+  background-image: url("../../assets/galleryimgs/commercial/commercial.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item17 {
+  background-image: url("../../assets/galleryimgs/commercial/commercial2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}
+.previous-works-gallery-item18 {
+  background-image: url("../../assets/galleryimgs/commercial/commercial3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1rem;
+  height: 150px;
+  width: 250px;
+  border-radius: 25px;
+}

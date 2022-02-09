@@ -1,4 +1,3 @@
-import Header from "../Header/Header";
 import "./styles.css";
 
 const About = () => {
@@ -6,7 +5,7 @@ const About = () => {
     <section className="about">
       <h1 className="about-title"> About Us</h1>
       <div className="about-list-one">
-        <h2 className="about-sub-title"> Our Guarentee </h2>
+        <h2 className="about-sub-title"> Our Guarantee </h2>
         <p className="about-text">
           We are extremely helpful and easy to deal with. No matter the size of
           the job, you’ll always know exactly what to expect. No hidden costs,

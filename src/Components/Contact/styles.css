@@ -1,0 +1,43 @@
+.contact {
+  width: 80vw;
+}
+.contact-title {
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  font-family: "Caveat", "Mukta";
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contact-form-input {
+  padding: 0.25rem 1rem;
+  margin-bottom: 0.5rem;
+  width: 75%;
+  border-radius: 15px;
+  border: none;
+}
+
+.contact-form-textarea {
+  width: 100%;
+  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 15px;
+}
+.contact-form-button {
+  padding: 0.25rem 1rem;
+  background-color: white;
+  color: rgba(131, 131, 130);
+  font-weight: 700;
+  border-radius: 15px;
+  border: 1px solid whitesmoke;
+}
+.contact-form-button:hover {
+  background-color: rgba(131, 131, 130);
+  color: white;
+  border: 2px solid white;
+}
