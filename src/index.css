@@ -1,12 +1,12 @@
 body,
-root {
+html {
   margin: 0;
   padding: 0;
   font-family: "Mukta", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  font-size: 10px;
+  scroll-behavior: smooth;
 }
 
 ul,

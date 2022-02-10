@@ -30,7 +30,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="contact">
+    <section className="contact" id="contact">
       <h1 className="contact-title">
         Leave a message and we'll call you back asap!
       </h1>
@@ -60,7 +60,9 @@ const Contact = () => {
           name="message"
         />
         <button className="contact-form-button">Submit</button>
-        {formSubmit && "Thank you..."}
+        {formSubmit && (
+          <p className="form-thankyou">Thank you we will be with you soon!</p>
+        )}
       </form>
     </section>
   );

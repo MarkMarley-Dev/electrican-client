@@ -53,3 +53,26 @@
   padding: 0.5rem;
   text-decoration: underline;
 }
+
+@media only screen and (min-width: 768px) {
+  .about-lists-container {
+    display: flex;
+  }
+  .about-list-one,
+  .about-list-two {
+    width: 50%;
+  }
+  .about-list-one {
+    border-right: 3px solid white;
+    padding: 0 1.1rem;
+    line-height: 2.1rem;
+    align-items: center;
+  }
+}
+@media only screen and (min-width: 1080px) {
+  .about-text {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 530px;
+  }
+}
